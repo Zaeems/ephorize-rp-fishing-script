@@ -4,6 +4,7 @@ basic AutoHotkey fishing script/bot for ephorize rp, a ragemp server (GTAV RP)
 ---
 
 you'll need autohotkey to run this
+
 read the notes if it doesnt work / you play a diff resolution
 
 ---
