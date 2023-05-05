@@ -1,5 +1,5 @@
 # ephorize-rp-fishing-script
-basic AutoHotkey fishing script for ephorize rp, a ragemp server (GTAV RP)
+basic AutoHotkey fishing script/bot for ephorize rp, a ragemp server (GTAV RP)
 
 ---
 
@@ -16,3 +16,5 @@ Press Esc to quit the script
 
 Make sure script is running as admin.
 Make sure the part of the screen where the "press h to catch the fish" popup appears has no white 
+
+
