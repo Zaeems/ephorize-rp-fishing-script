@@ -1,4 +1,4 @@
-# ephorize-rp-fishing-script
+# ephorize rp fishing script
 basic AutoHotkey fishing script/bot for ephorize rp, a ragemp server (GTAV RP)
 
 ---
